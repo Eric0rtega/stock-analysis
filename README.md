@@ -7,8 +7,8 @@ We determined if the stock price rose or fell between the years.
 
 ## Results
 
-![2017 Analysis](Resources/runtime_2017)
-![2018 Analysis](Resources/runtime_2018)
+![2017 Analysis](Resources/runtime_2017.png)
+![2018 Analysis](Resources/runtime_2018.png)
 
 ## Summary
 
